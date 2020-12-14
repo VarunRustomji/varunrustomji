@@ -2,4 +2,4 @@
 
 <p> I'm Varun, a computer science and statistics student currently living in Vancouver, Canada 🍁 </p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em><b>I love meeting new people and learning new things, so if you are working on something cool or just wanna brainstory startup ideas, <a href="https://twitter.com/vrustomji">hit me up</a>!
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em><b>I love meeting new people and learning new things. <a href="https://twitter.com/vrustomji">Hit me up</a> if you're working on something interesting.!
